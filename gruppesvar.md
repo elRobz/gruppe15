@@ -30,6 +30,11 @@ Pseudoarbeid defineres av Dennis Nørmark og Anders Fogh (2018) som arbeidsoppga
 
 
 ## 4. Proaktive mekanismer for konflikthåndtering:
+For å drøfte, forhindre og identifisere uenigheter tidlig burde Erling bruke noen av prosedyrene og ordningene som blir nevnt nedenfor. For å identifisere uenigheter tidlig burde det være faste statusmøter som har gjennomgang på hvordan man håndterer risiko og avvik. Det skal være tydelige kontaktpunkter, så de forskjellige partene vet hvor og hvem de skal henvende seg til om det er uenigheter. 
+
+Det burde være en dialog mellom det laveste nivået for å få muligheten til å løse konflikten, hvor det også er en tidsgrense på hvor lenge konflikten kan vare. Konflikten skal ha en tidsgrense på 14 dager før en beslutning skal bestemmes fra dagen konflikten oppstod. Det skal være møter på 45 minutter hvor det er krav om dokumentasjon av problemstillingen og løsningsforslag for at det skal diskuteres på en effektiv måte. Hvis konflikten ikke kan løses innen tiden, brukes eskaleringsmodell hvor Erlend har beslutningsmyndighet som prosjektleder. 
+
+For å unngå eskalering skal det være tydelig hva slags ansvar de forskjellige medlemmene har og forventningene som stilles til dem og rollene de er i. Det skal være åpen kommunikasjon hvor alle kan ta kontakt og få svar av de andre i gruppen. Dette kan for eksempel være Teams hvor gruppemedlemmene har mulighet til å sende meldinger til enten en eller flere av medlemmene. Det er viktig at utfordringer blir varslet tidlig slik at medlemmene er klare over at en uenighet har oppstått og kan jobbe sammen for å løse utfordringen. Dette kan gjøres som en fast statusrunde i ukentlige møter hvor hver deltaker gir en kort status og melder fra om risikoer, forsinkelser eller avhengigheter som kan forsinke prosjektet. Om det haster og ikke blir gjort i møter skal dette gjøres i Teams hvor medlemmet med problemet varsler prosjektlederen. Det skal være fokus på samarbeid og felles mål i gruppen, dette skal fullføres ved å kommunisere tydelig hva som er prosjektets felles mål og forventninger fra oppstart, legge til rette for at alle stemmer blir hørt uavhengig av bakgrunn og rolle. Når dette er gjort skaper Erlend en samarbeidskultur der mangfold i kompetanse og erfaring blir en styrke, og ikke en grunn for konflikt.
 
 
 ## 5. Håndtering av tidspress og "planleggingsfellen":
