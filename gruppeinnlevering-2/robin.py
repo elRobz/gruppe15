@@ -16,6 +16,11 @@ while True: # en while loop som går å går til den blir breaket
     if start == "Ja":
         time.sleep(1) # gir 1 sek delay på printen så det ikke blir "spam" og mere ryddig.
         print("\nFlott! Da begynner vi.\n") # i koden min vil du se mye av \ og \n. \ er bare for å få koden mere ryddig mens jeg skriver så det ikke blir så lange setninger vannrett. og \n er for å få det mere ryddig i terminalen og alt ikke blir "stacka" oppå hverandre.
+        time.sleep(4)
+        print("Du har disse tre konfliktene, Erling:\n\
+1. Silje & Elias sin uenighet om teknologi og UX-design.\n\
+2. Hamdi og Hallgeir sin uenighet om  innbyggerinvolvering. \n\
+3. Fallende motivasjon i teamet. \n")
         break # breaker loopen hvis JA = TRUE
     elif start == "Nei":
         time.sleep(1)
@@ -24,14 +29,6 @@ while True: # en while loop som går å går til den blir breaket
     else:
         time.sleep(1)
         print("\nError. System failure. System is rebooting. \n")
-
-# Intro:
-time.sleep(4)
-if start == "Ja":
-    print("Du har disse tre konfliktene, Erling:\n\
-1. Silje & Elias sin uenighet om teknologi og UX-design.\n\
-2. Hamdi og Hallgeir sin uenighet om  innbyggerinvolvering. \n\
-3. Fallende motivasjon i teamet. \n")
 
 # Konflikt 1:
 while True:
@@ -51,7 +48,7 @@ Skriv A for å snakke med de hver for seg, eller B for å ta det opp i plenum: (
         print("\nDu tar det opp i plenum, Elias sin løsning blir valgt, men det blir enda dårligere stemning i teamet! ")
         break
     else:
-        time.sleep(2)
+        time.sleep(1)
         print("\nError. System failure. System is rebooting. \n")
 
 # Konflikt 2:
@@ -79,7 +76,7 @@ Nå jobber de godt, men de har det travelt! ")
         print("\nDu tar et felles møte med gutta og HR, konflikten løser seg uten noe bortkastet tid! ")
         break
     else:
-        time.sleep(2)
+        time.sleep(1)
         print("\nError. System failure. System is rebooting. \n")
 
 # Problem 3:
@@ -101,7 +98,7 @@ Skriv A for å invitere teamet til sosiale aktiviteter, eller B for prioritere r
 men de får gjort mye selv om det er dårlig stemning! ")
         break
     else:
-        time.sleep(2)
+        time.sleep(1)
         print("\nError. System failure. System is rebooting. \n")
 
 # Utfall 1:
@@ -132,9 +129,9 @@ Prototypen levers ikke i tide.")
 
 # Utfall 4:
 else:
-    time.sleep(6)
+    time.sleep(1)
     print("\nError. System failure. System is rebooting. \n")
-    (exit)
+    exit()
 
 # Mine kommentarer (Robin):
 # \ = jeg bruker denne for å formatere ryddigere, spesielt når jeg sitter på en laptop med liten skjerm og har to ting oppe samtidig.
@@ -142,3 +139,4 @@ else:
 # import.time og time.sleep(x) = bruker også disse for å få litt ryddigere i terminalen, sånn så det blir mere timet å sendt ut i riktig hastighet
 # if(start[0].islower()): = her sjekker jeg om inputet har liten forbokstav, altså ord 0, som er første bokstaven, pclogikk starter alltid å telle fra 0, og hvis den har det så gjør denne -> start = start.capitalize() så den blir stor forbokstav (endrer da permament variabelen i unputet til stor forbokstav)
 # bruker en while loop så hvis de kommer til else-statement så vil de bare bli loopa tilbake til første spørsmål, mens hvis de kommer til if eller elif har jeg tatt en break som gjør at de breaker loopen å går videre til neste kodeblock.
+
