@@ -139,4 +139,4 @@ else:
 # import.time og time.sleep(x) = bruker også disse for å få litt ryddigere i terminalen, sånn så det blir mere timet å sendt ut i riktig hastighet
 # if(start[0].islower()): = her sjekker jeg om inputet har liten forbokstav, altså ord 0, som er første bokstaven, pclogikk starter alltid å telle fra 0, og hvis den har det så gjør denne -> start = start.capitalize() så den blir stor forbokstav (endrer da permament variabelen i unputet til stor forbokstav)
 # bruker en while loop så hvis de kommer til else-statement så vil de bare bli loopa tilbake til første spørsmål, mens hvis de kommer til if eller elif har jeg tatt en break som gjør at de breaker loopen å går videre til neste kodeblock.
-
+# valgte også å bruke dictionary for utfallene istedet for poengsystem
