@@ -86,12 +86,20 @@ Vi oppklarte veldig tidlig at folk har ulike fritidsaktiviteter de er med på, o
 
 ## Kilder:
 Aakre, I., & Mørkve, M. (2024). Ingeniørstudenters opplevelse av gruppeavtale: Er det lurt å skrive en avtale? Nordic Journal of STEM Education, 8(2), 60–72. https://doi.org/10.5324/njsteme.v8i2.4929
+
 Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. https://doi.org/10.2307/2666999
+
 Gjøsund, P., & Huseby, R. (2019). To eller flere: Om grupper, samhandling og ledelse (5. utg.). Cappelen Damm Akademisk.
+
 Jacobsen, D. I. (2020). Engangsorganisasjonen: Om prosjekter i offentlig og privat sektor (2. utg.). Cappelen Damm Akademisk.
+
 Lindsjørn, Y., Sjøberg, D. I., Dingsøyr, T., Bergersen, G. R., & Dybå, T. (2016). Teamwork quality and project success in software development: A survey of agile development teams. Journal of Systems and Software, 122, 274–286.
+
 Midler, C. (1995). "Projectification" of the firm: The Renault case. Scandinavian Journal of Management, 11(4), 363–375.
+
 Nørmark, D., & Fogh Jensen, A. (2018). Pseudoarbeid: Hvordan vi fikk travelt med å gjøre ingenting. Gyldendal.
+
 Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. https://doi.org/10.1037/h0022100
+
 van Knippenberg, D., De Dreu, C. K., & Homan, A. C. (2004). Work group diversity and group performance: An integrative model and research agenda. Journal of Applied Psychology, 89(6), 1008–1022.
 
