@@ -83,6 +83,9 @@ En svakhet vår kontrakt har er at vi ikke hadde felles ambisjonsnivå, eller fo
 
 Vi oppklarte veldig tidlig at folk har ulike fritidsaktiviteter de er med på, og at man har deltidsjobber ved siden av studiet. Alle ble enige om at det går helt fint. Ifølge Edmondson (1999) så vil dette også bidra til psykologisk trygghet i gruppen, at det er greit å ikke delta hele tiden hvis man ikke har mulighet. Det eneste kravet som ble satt er at man sier ifra om man ikke har mulighet til å komme og at man likevel bidrar når man har mulighet. Vi tror vi gjorde det godt med at vi ble enige om å møte fysisk, det gjør at man bidrar bedre og likt, enn at man for eksempel sitter hjemme alene, eller via discord. Fremover har vi tenkt til å fortsette sånn som vi gjør, være frempå, jobbe sammen og jobbe effektivt.
 
+## KI:
+Vi har brukt KI (Gemini & NotebookLM) til å hjelpe oss med å forstå oppgaven, lage en disposisjon, få til struktur og rettskriving. Vi har også brukt KI til å teste ut ulike ideer. KI er ikke brukt til å generere faglig innhold eller forme argumentasjon for gruppen. Alle faglige vurderinger og argumentasjoner er våres.
+
 
 ## Kilder: 
 Aakre, I., & Mørkve, M. (2024). Ingeniørstudenters opplevelse av gruppeavtale: Er det lurt å skrive en avtale? Nordic Journal of STEM Education, 8(2), 60–72. https://doi.org/10.5324/njsteme.v8i2.4929
